@@ -1,0 +1,37 @@
+﻿@model Lab5WebApp.Models.LabDataModel
+
+<div style="margin-top:80px">
+    <h2>Лабораторна робота 2</h2>
+    <h3>Завдання:</h3>
+    <p>
+        Для проведення експерименту треба вибрати N наявних приладів тільки три. Для цього виконують наступну операцію - якщо в групі приладів більше трьох, то їх нумерують і вибирають одну з груп: з парними чи непарними номерами. Операцію повторюють до тих пір, поки в групі не залишиться три або менше приладів. Якщо їх залишається рівно три, то вони беруться для експерименту.
+    </p>
+    <p>Потрібно написати програму, яка підрахує кількість способів вибору приладів.</p>
+    <div>
+        <h4>Приклад вхідних данних:</h4>
+        <pre>3</pre>
+        <h4>Приклад данних після роботи програми:</h4>
+        <pre>1</pre>
+    </div>
+    <hr />
+    <div>
+        <h4>Приклад вхідних данних:</h4>
+        <pre>6</pre>
+        <h4>Приклад данних після роботи програми:</h4>
+        <pre>2</pre>
+    </div>
+
+    <form method="post" enctype="multipart/form-data" asp-controller="Lab2" asp-action="Lab2">
+        <div class="row">
+            <div class="form-group container mt-2">
+                <h4>Вхідні дані (шлях):</h4>
+                <input id="inputText" class="form-control" type="text" asp-for="Input"></input>
+                <h4>Вихідні дані (шлях):</h4>
+                <input id="inputText" class="form-control" type="text" asp-for="Output"></input>
+            </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-2">Виконати</button>
+    </form>
+    
+</div>

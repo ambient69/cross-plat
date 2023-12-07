@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>NKozlenko</id>
+    <version>1.0.0</version>
+    <title>NKozlenko Lab4 App</title>
+    <authors>Nikita Kozlenko</authors>
+    <description>Nikita Kozlenko Lab4 Application</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="C:\Users\kivly\Desktop\Lab4\Lab4App\obj\DotnetToolSettings.xml" target="tools\net6.0\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\kivly\Desktop\Lab4\Lab4App\bin\Debug\net6.0\publish\Lab4App.dll" target="tools\net6.0\any\Lab4App.dll" />
+    <file src="C:\Users\kivly\Desktop\Lab4\Lab4App\bin\Debug\net6.0\publish\Lab4App.deps.json" target="tools\net6.0\any\Lab4App.deps.json" />
+    <file src="C:\Users\kivly\Desktop\Lab4\Lab4App\bin\Debug\net6.0\publish\Lab4App.runtimeconfig.json" target="tools\net6.0\any\Lab4App.runtimeconfig.json" />
+    <file src="C:\Users\kivly\Desktop\Lab4\Lab4App\bin\Debug\net6.0\publish\Lab4App.pdb" target="tools\net6.0\any\Lab4App.pdb" />
+    <file src="C:\Users\kivly\Desktop\Lab4\Lab4App\bin\Debug\net6.0\publish\McMaster.Extensions.CommandLineUtils.dll" target="tools\net6.0\any\McMaster.Extensions.CommandLineUtils.dll" />
+    <file src="C:\Users\kivly\Desktop\Lab4\Lab4App\bin\Debug\net6.0\publish\Lab4Classes.dll" target="tools\net6.0\any\Lab4Classes.dll" />
+    <file src="C:\Users\kivly\Desktop\Lab4\Lab4App\bin\Debug\net6.0\publish\Lab4Classes.pdb" target="tools\net6.0\any\Lab4Classes.pdb" />
+  </files>
+</package>

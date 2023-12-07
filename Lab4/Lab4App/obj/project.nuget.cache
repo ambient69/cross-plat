@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hOJy5QeaooSGak35IbnXni3aHDF8Ci61lJ1ADr5jQ7q0nYsNLZAET56dUuE4fr1sHGAzymYURObHVfMajsU0Ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kivly\\Desktop\\Lab4\\Lab4App\\Lab4App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kivly\\.nuget\\packages\\mcmaster.extensions.commandlineutils\\4.1.0\\mcmaster.extensions.commandlineutils.4.1.0.nupkg.sha512",
+    "C:\\Users\\kivly\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\kivly\Desktop\Lab4\Lab4Classes\bin\Debug\net6.0\Lab4Classes.deps.json
+C:\Users\kivly\Desktop\Lab4\Lab4Classes\bin\Debug\net6.0\Lab4Classes.dll
+C:\Users\kivly\Desktop\Lab4\Lab4Classes\bin\Debug\net6.0\Lab4Classes.pdb
+C:\Users\kivly\Desktop\Lab4\Lab4Classes\obj\Debug\net6.0\Lab4Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kivly\Desktop\Lab4\Lab4Classes\obj\Debug\net6.0\Lab4Classes.AssemblyInfoInputs.cache
+C:\Users\kivly\Desktop\Lab4\Lab4Classes\obj\Debug\net6.0\Lab4Classes.AssemblyInfo.cs
+C:\Users\kivly\Desktop\Lab4\Lab4Classes\obj\Debug\net6.0\Lab4Classes.csproj.CoreCompileInputs.cache
+C:\Users\kivly\Desktop\Lab4\Lab4Classes\obj\Debug\net6.0\Lab4Classes.dll
+C:\Users\kivly\Desktop\Lab4\Lab4Classes\obj\Debug\net6.0\refint\Lab4Classes.dll
+C:\Users\kivly\Desktop\Lab4\Lab4Classes\obj\Debug\net6.0\Lab4Classes.pdb
+C:\Users\kivly\Desktop\Lab4\Lab4Classes\obj\Debug\net6.0\ref\Lab4Classes.dll

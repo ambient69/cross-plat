@@ -1,0 +1,29 @@
+﻿@model Lab5WebApp.Models.LabDataModel
+
+<div style="margin-top:80px">
+    <h2>Лабораторна робота 3</h2>
+    <h3>Завдання:</h3>
+    <p>
+        У неорієнтованому графі потрібно знайти довжину найкоротшого шляху між двома вершинами
+    </p>
+    <div>
+        <h4>Приклад вхідних данних:</h4>
+        <pre>50 1 0 0 11 0 1 0 00 1 0 0 00 0 0 0 01 0 0 0 03 5</pre>
+        <h4>Приклад данних після роботи програми:</h4>
+        <pre>3</pre>
+    </div>
+
+    <form method="post" enctype="multipart/form-data" asp-controller="Lab3" asp-action="Lab3">
+        <div class="row">
+            <div class="form-group container mt-2">
+                <h4>Вхідні дані (шлях):</h4>
+                <input id="inputText" class="form-control" type="text" asp-for="Input"></input>
+                <h4>Вихідні дані (шлях):</h4>
+                <input id="inputText" class="form-control" type="text" asp-for="Output"></input>
+            </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-2">Виконати</button>
+    </form>
+    
+</div>

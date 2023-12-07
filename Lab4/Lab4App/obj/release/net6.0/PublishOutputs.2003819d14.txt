@@ -1,0 +1,7 @@
+C:\Users\kivly\Desktop\Lab4\Lab4App\bin\release\net6.0\publish\Lab4App.exe
+C:\Users\kivly\Desktop\Lab4\Lab4App\bin\release\net6.0\publish\Lab4App.dll
+C:\Users\kivly\Desktop\Lab4\Lab4App\bin\release\net6.0\publish\Lab4App.deps.json
+C:\Users\kivly\Desktop\Lab4\Lab4App\bin\release\net6.0\publish\Lab4App.runtimeconfig.json
+C:\Users\kivly\Desktop\Lab4\Lab4App\bin\release\net6.0\publish\Lab4App.pdb
+C:\Users\kivly\Desktop\Lab4\Lab4App\bin\release\net6.0\publish\McMaster.Extensions.CommandLineUtils.dll
+C:\Users\kivly\Desktop\Lab4\Lab4App\bin\release\net6.0\publish\Lab4Classes.dll
